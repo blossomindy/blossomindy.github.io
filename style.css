@@ -5,7 +5,7 @@
   --accent: #2563eb;
   --line: #e5e7eb;
   --bg: #ffffff;
-  --maxw: 720px;
+  --maxw: 800px;
 }
 
 * { box-sizing: border-box; }
@@ -16,8 +16,7 @@ body {
   margin: 0;
   color: var(--fg);
   background: var(--bg);
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Apple SD Gothic Neo",
-    "Noto Sans KR", Roboto, Helvetica, Arial, sans-serif;
+  font-family: "Lato", "Apple SD Gothic Neo", "Noto Sans KR", Verdana, Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.65;
 }
