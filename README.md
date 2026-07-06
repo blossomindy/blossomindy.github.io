@@ -1,4 +1,4 @@
-# blossominkyung.github.io
+# blossomindy.github.io
 
 Mindy의 개인 포트폴리오 사이트. 빌드 과정 없는 순수 HTML/CSS이며 GitHub Pages로 서빙됩니다.
 
@@ -37,4 +37,4 @@ python3 -m http.server 8000
 `main` 브랜치에 push하면 GitHub Pages가 자동으로 배포합니다.
 저장소 Settings → Pages → Source: `main` / `/ (root)` 로 설정.
 
-공개 주소: https://blossominkyung.github.io
+공개 주소: https://blossomindy.github.io
