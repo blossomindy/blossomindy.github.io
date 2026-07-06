@@ -39,9 +39,9 @@ a:hover { text-decoration: underline; }
 }
 .bio__text { flex: 1 1 auto; }
 .bio__photo {
-  flex: 0 0 200px;
-  width: 200px;
-  height: 200px;
+  flex: 0 0 240px;
+  width: 240px;
+  height: 240px;
   border-radius: 50%;
   overflow: hidden;
   background: var(--line);
@@ -64,18 +64,16 @@ a:hover { text-decoration: underline; }
 
 .links {
   color: var(--muted);
-  font-size: 15px;
+  font-size: 14px;
 }
 
 /* ===== Sections ===== */
 section { margin-top: 44px; }
 
 h2 {
-  font-size: 13px;
+  font-size: 22px;
   font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
-  color: var(--muted);
+  color: var(--fg);
   border-bottom: 1px solid var(--line);
   padding-bottom: 8px;
   margin: 0 0 20px;
@@ -114,10 +112,10 @@ h2 {
   display: block;
 }
 .item__body { flex: 1 1 auto; }
-.item__body h3 { margin: 0 0 4px; font-size: 18px; }
+.item__body h3 { margin: 0 0 4px; font-size: 14px; }
 .item__meta { color: var(--muted); font-size: 14px; margin: 0 0 8px; }
 .item__body p { margin: 0 0 8px; }
-.item__links { font-size: 15px; color: var(--muted); }
+.item__links { font-size: 14px; color: var(--muted); }
 
 /* ===== Footer ===== */
 .footer {
