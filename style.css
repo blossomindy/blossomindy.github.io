@@ -65,6 +65,7 @@ a:hover { text-decoration: underline; }
 .links {
   color: var(--muted);
   font-size: 14px;
+  text-align: center;
 }
 
 /* ===== Sections ===== */
